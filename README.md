@@ -15,4 +15,4 @@ with the USB interface keyboard . Game video is shown on a VGA monitor. Here the
 VGA monitor or projector, keyboard, interface with FPGA and control
 them through programming. The successful transplant of these games
 provides a template for the development of other visual systems in the
-FPGA. Here everything is implemented in hardware on FPGA.And we used bit mapping and object mapping to map dinosour,obstacle,clouds and score board.
+FPGA. Here everything is implemented in hardware on FPGA.And we used bit mapping and object mapping to map dinosaur,obstacle,clouds and score board.
